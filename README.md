@@ -32,9 +32,8 @@ Inorder to build a machine learning model, the categorical features will be enco
 
 Model Validation 
 
-Using train test split, the data will be split into 
-training data = 70 percent;
-testing data = 30 percent
+Using train test split, the data will be split into train and test in the ratio of 70 and 30 respectively 
+
 
 Modelling
 
